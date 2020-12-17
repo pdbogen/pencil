@@ -1,4 +1,4 @@
-package draw
+package pencil
 
 import (
 	"image/color"
